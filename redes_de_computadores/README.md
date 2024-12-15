@@ -2,7 +2,7 @@
 
 ## Montar a planta baixa de Rede da Empresa:
 
-<img src="../image/SetpPrimePlanta.jpg">
+<img src="image/SetpPrimePlanta.jpg">
 
 ## Aparelhos e ips:
 
