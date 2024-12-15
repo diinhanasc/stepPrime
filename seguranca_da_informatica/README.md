@@ -50,4 +50,4 @@ o	Apenas softwares aprovados pela empresa podem ser instalados nos computadores.
 
 ## Matriz GUT
 
-<img src="../image/matrizGUT.png">
+<img src="image/matrizGUT.png">
