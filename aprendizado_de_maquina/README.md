@@ -14,9 +14,11 @@ A Regressão Linear é uma técnica de aprendizado supervisionado usada para mod
 ### KNN (K-Nearest Neighbor):
 
 <img src="image/KNN.png">
-[código de regressão linear](codigos/KNN.py)
+
+[código de regressão linear](codigos/knn.py)
 
 ### Regressão Linar:
 
 <img src="image/RegressãoLinear.png">
+
 [código de regressão linear](codigos/regresaoL.py)
